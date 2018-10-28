@@ -1,16 +1,16 @@
 # Redis, GraphQL and NodeJS
-This example is to show the integration between redis and graphQL. GraphQL is a api to organize the any connection layer (but as far as i know it's only JSON), while Redis is a Database either on memory, session or persisted
+This example is to show the integration between Redis and GraphQL. GraphQL is a api to organize the any connection layer (but as far as i know it's only works with JSON responses), while Redis is a Database either on memory, session or persisted data.
 
 ## Install
-Install redis server.
+1. Install redis server.
 
-Install all packages with:
+2. Install all node packages with:
 ```
 npm run Install
 ```
 
 ## Execute
-Open 2 terminals with each running
+Open 2 terminals with each running:
 ```
   npm run start
 ```
